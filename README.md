@@ -9,3 +9,7 @@ python3 haiku_generator.py
 Можно и свою базу использовать, для этого в [haiku_generator.py](https://github.com/marydrobotun/markov_haiku_generator/blob/main/haiku_generator.py) в строке 14 передать путь к своему файлу.
 
 Модуль [count_syllables.py](https://github.com/marydrobotun/markov_haiku_generator/blob/main/count_syllables.py) просто подсчитывает число слогов в русском слове.
+
+
+# Кстати!
+Лучшие хокку, которые сгененрировала программа, попадают в мой [телеграмм канал](https://t.me/cyberhaiku).
